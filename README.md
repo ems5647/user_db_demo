@@ -12,10 +12,10 @@ A full-stack app built with ReactJS (frontend) and Spring Boot (backend).
 ### Backend
 ```bash
 cd backend
-./mvnw spring-boot:run
+./mvnw spring-boot:run```
 
 ### Frontend
 ```bash
-cd frontend
+cd frontend```
 npm install
 npm start
